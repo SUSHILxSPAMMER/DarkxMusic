@@ -1,4 +1,4 @@
-# Vicky // @cbra8xop
+# Vicky // @cobra8xop
 
 import os
 import aiohttp
