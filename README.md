@@ -1,13 +1,13 @@
-<h2 align="centre">🇩ᴀʀᴋ ✘ 🇲ᴜsɪᴄ </h2>
+<h2 align="centre">𝙎𝙐𝙎𝙃𝙄𝙇 𝙭 𝙉𝘼𝙑𝙔𝘼 </h2>
 
-### ᴅᴀʀᴋ ✘ ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### sᴜsʜɪʟ ✘ ɴᴀᴠʏᴀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/World_FriendShip_Zone"><img src="https://telegra.ph/file/30868ddf51d5599e8c777.jpg" width="300"></a></p>
+<p align="center"><a href="https://te.legra.ph/file/afac20e0707e8cfc6f041.jpg"><img src="https://te.legra.ph/file/afac20e0707e8cfc6f041.jpg" width="300"></a></p>
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/World_FriendShip_Zone"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/clan8xofficial"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
