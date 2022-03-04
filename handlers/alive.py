@@ -34,15 +34,15 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/30868ddf51d5599e8c777.jpg",
+        photo=f"https://te.legra.ph/file/afac20e0707e8cfc6f041.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 Hᴇʟʟᴏ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍs ɢʀᴏᴜᴘs...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ Uᴘᴅᴀᴛᴇs : [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/Demon_Creators)
-┣★ Sᴜᴘᴘᴏʀᴛ : [Wᴏʀʟᴅ FʀɪᴇɴᴅSʜɪᴘ Zᴏɴᴇ](https://t.me/World_FriendShip_Zone)
-┣★ Oᴡɴᴇʀ   : [Sᴜᴍɪᴛ Yᴀᴅᴀᴠ](https://t.me/Simple_Mundaa)
-┣★ Fᴇᴍᴀʟᴇ Oᴡɴᴇʀ : [Nɪᴋɪᴛᴀ](https://t.me/Cute_Shezhadi012)
+┣★ Uᴘᴅᴀᴛᴇs : [Dᴇᴍᴏɴ Cʀᴇᴀᴛᴏʀs](https://t.me/TAG_BAN)
+┣★ Sᴜᴘᴘᴏʀᴛ : [Wᴏʀʟᴅ FʀɪᴇɴᴅSʜɪᴘ Zᴏɴᴇ](https://t.me/clan8xofficial)
+┣★ Oᴡɴᴇʀ   : [8x Cobra](https://t.me/Simple_Mundaa)
+┣★ Fᴇᴍᴀʟᴇ Oᴡɴᴇʀ : [niShu](https://t.me/sushil8xop)
 ┗━━━━━━━━━━━━━━━━━┛
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
@@ -60,29 +60,29 @@ Hᴇʟʟᴏ ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ
 @Client.on_message(commandpro(["/start", "/alive", "Sumit"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/30868ddf51d5599e8c777.jpg",
+        photo=f"https://te.legra.ph/file/1b99b29043777af4e3898.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/World_FriendShip_Zone")
+                        "Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/clan8xofficial")
                 ]
             ]
         ),
     )
 
 
-@Client.on_message(commandpro(["DarkxMusic","Sumit", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["NishuxMusic","Nishu", "#Channel", "@Channel", "/Channel", "Channel"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/65be304b45005b8bd84db.jpg",
+        photo=f"https://te.legra.ph/file/afac20e0707e8cfc6f041.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Uᴘᴅᴀᴛᴇs", url=f"https://t.me/Demon_Creators")
+                        "Uᴘᴅᴀᴛᴇs", url=f"https://t.me/clan8xofficial")
                 ]
             ]
         ),
