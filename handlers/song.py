@@ -1,4 +1,4 @@
-# SumitYada // @Sumit9969
+# Vicky // @cbra8xop
 
 import os
 import aiohttp
@@ -23,11 +23,11 @@ from yt_dlp.utils import (
 
 @Client.on_message(filters.command("song") & ~filters.edited)
 async def song(client, message):
-    cap = "**ꜱᴏɴɢ ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴜᴍɪᴛ ʏᴀᴅᴀᴠ...**"
+    cap = "**ꜱᴏɴɢ ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ᴠɪᴄᴋʏ ᴏᴘ...**"
     url = message.text.split(None, 1)[1]
     rkp = await message.reply("**🎧...**")
     if not url:
-        await rkp.edit("**ᴘʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ \n ꜱᴏɴɢ ɴᴀᴍᴇ...**")
+        await rkp.edit("**ᴘʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ \n ᴘʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ...**")
     search = SearchVideos(url, offset=1, mode="json", max_results=1)
     test = search.result()
     p = json.loads(test)
