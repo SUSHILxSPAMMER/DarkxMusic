@@ -92,7 +92,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: 𝐒𝐮𝐦𝐢𝐭 𝐘𝐚𝐝𝐚𝐯",
+        f"Powered By: 8𝙭 𝘾𝙊𝘽𝙍𝘼",
         (255, 255, 255),
         font=font,
     )
@@ -120,7 +120,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Dark_XMusic_Bot"
+        user.first_name ='NISHU_XMusic_Bot"
     usar = user
     wew = usar.id
     try:
@@ -186,7 +186,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/clan8xofficial")
 
                 ]
             ]
@@ -225,7 +225,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/clan8xofficial")
 
                 ]
             ]
@@ -241,7 +241,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ",
-                            url=f"https://t.me/World_FriendShip_Zone")
+                            url=f"https://t.me/clan8xofficial")
 
                 ]
             ]
